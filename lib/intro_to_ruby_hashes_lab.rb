@@ -3,7 +3,7 @@ Hash.new
 end
 
 def my_hash
-new_one = Hash.new
+new_one = {}
 new_one[:lover] = 1
 end
 
