@@ -9,7 +9,9 @@ new_one
 end
 
 def pioneer
-  # return a hash with a key of :name and a corresponding value of 'Grace Hopper'
+  music_lover_hash = Hash.new
+  music_lover_hash[:name] = "Grace Hopper"
+  music_lover_hash
 end
 
 
