@@ -4,7 +4,8 @@ end
 
 def my_hash
 new_one = {}
-new_one[:lover] = "1"
+new_one[:lover] = "boy"
+new_one
 end
 
 def pioneer
