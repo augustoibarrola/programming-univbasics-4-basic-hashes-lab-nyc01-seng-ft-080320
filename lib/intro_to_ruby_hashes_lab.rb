@@ -3,7 +3,8 @@ Hash.new
 end
 
 def my_hash
-  # return a valid hash with any key/value pair of your choice
+something_new = Hash.new
+something_new[:lover] = "boy"
 end
 
 def pioneer
