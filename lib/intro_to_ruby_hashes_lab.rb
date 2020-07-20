@@ -3,8 +3,8 @@ Hash.new
 end
 
 def my_hash
-Hash.new
-my_hash[:lover] = "boy"
+new_one = Hash.new
+new_one[:lover] = "boy"
 end
 
 def pioneer
